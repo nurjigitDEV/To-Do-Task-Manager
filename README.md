@@ -3,4 +3,4 @@
 
 команда запуска : npm run dev
 
-![preview](./src/assets/images/preview.png)
+![preview](./task-project/src/assets/images/preview.png)
